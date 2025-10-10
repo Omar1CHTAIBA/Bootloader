@@ -2,12 +2,11 @@
 
 A minimal **x86 real-mode bootloader** written in assembly (NASM). Boots in QEMU, prints a welcome message, and serves as a foundation for learning operating system development from scratch.
 
-![Demo]<!-- Uploading "Screenshot 2025-10-10 131023.png"... -->
+
 
 ## 📸 Preview
-
-![QEMU screenshot showing 'Hello from the bootloader!'](demo.png)  
-*(Example output — customize with your own screenshot!)*
+ 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/67b53f20-f339-4753-ab8e-0a7f86c49663" />
 
 ## ✨ Features
 

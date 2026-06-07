@@ -1,6 +1,6 @@
 # x86 Bootloader
 
-A minimal **x86 real-mode bootloader** written in assembly (NASM). Boots in QEMU, prints a welcome message, and serves as a foundation for learning operating system development from scratch.
+A **x86 real-mode bootloader** written in assembly (NASM). Boots in QEMU, prints a welcome message, and serves as a foundation for learning operating system development from scratch.
 
 
 

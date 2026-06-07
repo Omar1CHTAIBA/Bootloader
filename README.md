@@ -4,11 +4,11 @@ A minimal **x86 real-mode bootloader** written in assembly (NASM). Boots in QEMU
 
 
 
-## 📸 Preview
+## Preview
  
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/67b53f20-f339-4753-ab8e-0a7f86c49663" />
 
-## ✨ Features
+## Features
 
 - 512-byte boot sector compliant with BIOS requirements
 - Valid boot signature (`0x55AA`) at the end

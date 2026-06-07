@@ -16,7 +16,7 @@ A minimal **x86 real-mode bootloader** written in assembly (NASM). Boots in QEMU
 - Fully buildable with a single `make` command
 - Runs safely in QEMU (no risk to your host system)
 
-## 🛠️ Requirements
+## Requirements
 
 - [NASM](https://www.nasm.us/) – Netwide Assembler
 - [QEMU](https://www.qemu.org/) – Machine emulator and virtualizer
